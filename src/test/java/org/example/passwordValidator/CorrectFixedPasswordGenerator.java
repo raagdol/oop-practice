@@ -1,4 +1,6 @@
-package org.example;
+package org.example.passwordValidator;
+
+import org.example.passwordValidator.PasswordGenerator;
 
 public class CorrectFixedPasswordGenerator implements PasswordGenerator {
 
